@@ -8,9 +8,9 @@ CFLAGS = -Wall -g
 SOURCE_C = foo.c
 OBJECTS_C = foo.o
 
-SOURCE_CXX = charpter_01.cpp
+SOURCE_CXX = chapter_01.cpp
 
-TARGET = charpter_01
+TARGET = chapter_01
 LDFLAGS_COMMON = -o
 
 all:
